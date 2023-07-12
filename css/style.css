@@ -1,0 +1,6 @@
+#container{
+    background-image: url('../images/safari.webp');
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
